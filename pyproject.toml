@@ -1,4 +1,4 @@
-[project]
+[AI_AGENT]
 name = "ai-agent"
 version = "0.1.0"
 description = "A minimal AI coding agent powered by Google’s Gemini API — inspired by Claude Code, built for experimentation and learning."
